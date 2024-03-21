@@ -183,9 +183,6 @@ export const drawerMenuConfig = [
   {
     key: "",                  // unique Key to identify
     label: "",                // name you wish to display on menu inside bottom menu
-    nav: {
-      parent: "",             // parent component ref
-    },
     screen: {
       component: "",          // component name you wish to load on screen
       header: "",             // screen header you wish to display
