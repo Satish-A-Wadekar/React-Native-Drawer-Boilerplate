@@ -1,8 +1,6 @@
 # React-Native-Drawer-Boilerplate
 a quick boilerplate to start development on your new react mobile app
 
-# MQTT with Mosquitto broker (Python platform)
-
 - Author: [Satish Wadekar](https://www.linkedin.com/in/satish-4b565056/)
 - License: [MIT]([https://github.com/Satish-A-Wadekar/mqtt-with-mosquitto-broker/blob/main/LICENSE](https://github.com/Satish-A-Wadekar/React-Native-Drawer-Boilerplate/blob/main/LICENSE) "MIT")
 - Repo URL: [https://github.com/Satish-A-Wadekar/React-Native-Drawer-Boilerplate](https://github.com/Satish-A-Wadekar/React-Native-Drawer-Boilerplate))
